@@ -8,12 +8,12 @@
  "Target Win": "35000",
  "Lose Target": "0",
  "Reset If Target Profit": "OFF",
- "Reset If Target Win": "OFF",
+ "Reset If Target Win": "ON",
  "Interval": "1",
  "Config": [{
 
      "Name Bet Set": "Ardi01",
-     "Base Bet": "0.00100",
+     "Base Bet": "0.0100",
      "Max Bet": "OFF",
      "Chance": "7",
      "Random Chance": {
