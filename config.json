@@ -1,38 +1,38 @@
 {
 
  "Account": {
-     "Username": "Ardi01",
-     "Password": "f123dho"
+     "Username": "xxxx",
+     "Password": "xxxx"
      },
- "Target Profit": "454",
- "Target Win": "35000",
+ "Target Profit": "1000",
+ "Target Win": "1500",
  "Lose Target": "0",
  "Reset If Target Profit": "OFF",
  "Reset If Target Win": "OFF",
- "Interval": "1",
+ "Interval": "0",
  "Config": [{
 
-     "Name Bet Set": "Ardi01",
-     "Base Bet": "0.00100",
+     "Name Bet Set": "1⃣ Mining Chance 80 ‰",
+     "Base Bet": "0.1",
      "Max Bet": "OFF",
-     "Chance": "7",
+     "Chance": "70",
      "Random Chance": {
-          "Toggle": "OFF",
-          "Min": "15",
-          "Max": "40"
+          "Toggle": "ON",
+          "Min": "75",
+          "Max": "85"
         },
      "Bet": {
-          "Bet": "low",
+          "Bet": "LOW",
           "Hi / Low": {
               "Toggle": "ON",
-              "If Lose": "23",
-              "If Win": "10"
+              "If Lose": "2",
+              "If Win": "3"
             }
         },
-     "If Win": "1.1",
-     "If Lose": "1.09",
-     "Reset If Win": "1",
-     "Reset If Profit": "OFF",
+     "If Win": "1.2",
+     "If Lose": "3.3",
+     "Reset If Win": "0",
+     "Reset If Profit": "0.000000001",
      "Interval": "0"
      },{
 
@@ -85,10 +85,10 @@
      }
   ],
   "Auto Wd": {
-       "Toggle": "ON",
-       "If Balance": "72",
-       "Wallet Address": "DQzGD53jVtUKnfTXtMUHDueP1WZTBgmypH",
-       "Amount": "51"
+       "Toggle": "OFF",
+       "If Balance": "1000",
+       "Wallet Address": "DBLZzfFsVquGqDstJ6aTLFuxKxTiHZ1xmS",
+       "Amount": "1000"
       },
   "User-Agent": "Android Phone / Chrome 65 [Mobile]:Mozilla/5.0 (Linux; Android 8.0; BLA-L29 Build/HUAWEIBLA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3236.6 Mobile Safari/537.36"
 
