@@ -17,14 +17,14 @@
      "Max Bet": "OFF",
      "Chance": "7",
      "Random Chance": {
-          "Toggle": "OFF",
-          "Min": "15",
-          "Max": "40"
+          "Toggle": "ON",
+          "Min": "5",
+          "Max": "7"
         },
      "Bet": {
           "Bet": "low",
           "Hi / Low": {
-              "Toggle": "ON",
+              "Toggle": "OFF",
               "If Lose": "23",
               "If Win": "10"
             }
@@ -33,46 +33,46 @@
      "If Lose": "1.09",
      "Reset If Win": "1",
      "Reset If Profit": "OFF",
-     "Interval": "0"
+     "Interval": "10"
      },{
 
-     "Name Bet Set": "2 - Mining Chance 45 %",
+     "Name Bet Set": "2 - Mining Chance 15 %",
      "Base Bet": "0.000001111111111111",
      "Max Bet": "OFF",
-     "Chance": "45",
+     "Chance": "15",
      "Random Chance": {
-          "Toggle": "OFF",
+          "Toggle": "ON",
           "Min": "5",
-          "Max": "50"
+          "Max": "15"
         },
      "Bet": {
           "Bet": "Low",
           "Hi / Low": {
-              "Toggle": "ON",
+              "Toggle": "OFF",
               "If Lose": "3",
               "If Win": "1"
             }
         },
      "If Win": "1",
-     "If Lose": "1.77777777777",
+     "If Lose": "1.9",
      "Reset If Win": "1",
-     "Reset If Profit": "0.00000001",
-     "Interval": "212"
+     "Reset If Profit": "OFF",
+     "Interval": "21"
      },{
 
-     "Name Bet Set": "3 - Mining Chance 40 %",
-     "Base Bet": "0.000001111111111111",
+     "Name Bet Set": "3 - Mining Chance 50 %",
+     "Base Bet": "0.1",
      "Max Bet": "OFF",
-     "Chance": "40",
+     "Chance": "50",
      "Random Chance": {
-          "Toggle": "OFF",
-          "Min": "5",
+          "Toggle": "ON",
+          "Min": "35",
           "Max": "50"
         },
      "Bet": {
           "Bet": "Low",
           "Hi / Low": {
-              "Toggle": "ON",
+              "Toggle": "OFF",
               "If Lose": "3",
               "If Win": "1"
             }
@@ -80,15 +80,15 @@
      "If Win": "2",
      "If Lose": "2",
      "Reset If Win": "1",
-     "Reset If Profit": "0.00000001",
+     "Reset If Profit": "OFF",
      "Interval": "212"
      }
   ],
   "Auto Wd": {
        "Toggle": "ON",
-       "If Balance": "72",
+       "If Balance": "502",
        "Wallet Address": "DQzGD53jVtUKnfTXtMUHDueP1WZTBgmypH",
-       "Amount": "51"
+       "Amount": "501"
       },
   "User-Agent": "Android Phone / Chrome 65 [Mobile]:Mozilla/5.0 (Linux; Android 8.0; BLA-L29 Build/HUAWEIBLA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3236.6 Mobile Safari/537.36"
 
